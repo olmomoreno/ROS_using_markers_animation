@@ -1,0 +1,7 @@
+<launch>
+   <node pkg="rviz" type="rviz" name="rviz"/>
+   <node pkg="using_markers_animation" type="uma_animator_exe" name="uma_animator"/>
+   <node pkg="using_marker_array_simple" type="marker_array_sphere_exe" name="marker_array_sphere" launch-prefix="gnome-terminal -e"/>
+</launch>
+
+
