@@ -2,7 +2,7 @@
 # DEMO: Using Markers Animation.
 # Platform: Robot Operative System (ROS).
 # Devices: None.
-# Description: Animation of six spheres oscilating from center to distance 'x' and going back.
+# Description: Animation of six spheres oscillating from center to distance 'x' and going back.
 # Tools: RVIZ.
 # How to run the demo?
   # $ roscore
