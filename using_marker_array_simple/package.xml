@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>using_marker_array_simple</name>
+  <version>0.0.0</version>
+  <description>The using_marker_array_simple package</description>
+  <maintainer email="olmo.moreno@iit.it">olmo</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>visualization_msgs</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>visualization_msgs</run_depend>
+  <export>
+    </export>
+</package>
